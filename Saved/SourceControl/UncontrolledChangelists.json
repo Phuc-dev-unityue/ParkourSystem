@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/Anim_Notify/ReachLedgelK.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/Animations/ABP_Parkour.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/DataAssets/ParkourVariables.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/Actors/ArrowActor.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/Curves/ParkourCameraMove.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/Actors/WidgetActor.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/DataTables/ParkourGameplayTagsDT.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/FunctionLibrarys/ParkourFunctionLibrary.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/Widget/ParkourStarts.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/Interfaces/ParkourStats_Interface.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/Interfaces/ParkourABP_Interface.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/Interfaces/Parkour_Interface.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/Actor_Components/ParkourComponent.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/NK/78Q01LUTNHHZE77TRXE95K.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/TR/257490IPQGNBA1HF6HAEG1.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/DataAssets/ThinVaultDT.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/DataAssets/VaultDT.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/DataAssets/LowMantleDT.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/DataAssets/MantleDT.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/DataAssets/HightVaultDT.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/DataAssets/ParkourPrimaryDataAsset.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/Actor_Components/ParkourComponents.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/Interfaces/Parkour_Interfaces.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/Interfaces/ParkourABP_Interfaces.uasset",
+				"D:/Unreal/Learn/Parkour Climb System/MyProject/Plugins/ParkourSystem/Content/Interfaces/ParkourStats_Interfaces.uasset"
+			]
+		}
+	]
+}
